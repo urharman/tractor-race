@@ -1,0 +1,11 @@
+C:\Users\singh\source\repos\GameRace\GameRace\bin\Debug\GameRace.exe.config
+C:\Users\singh\source\repos\GameRace\GameRace\bin\Debug\GameRace.exe
+C:\Users\singh\source\repos\GameRace\GameRace\bin\Debug\GameRace.pdb
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.csprojAssemblyReference.cache
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.Properties.Resources.resources
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.csproj.GenerateResource.cache
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.exe
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.pdb
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.Resource1.resources
+C:\Users\singh\source\repos\GameRace\GameRace\obj\Debug\GameRace.TractorRace.resources
